@@ -1,10 +1,12 @@
-Here’s how I prepared:
+# Here’s how I prepared:
 
-Professor Messer’s videos – These were a game-changer for me. I watched all of his free YouTube videos, took detailed notes, and reviewed them multiple times. His breakdown of the content was spot on.
+I just wanted to share that I finally passed my CompTIA Security+ (SY0-701) exam! 🙌 It’s been a tough journey, but I’m super excited to have earned this certification!
 
-practice questions – These [practice questions](https://bit.ly/3XnMbhy) were a huge help! I used this to work through tons of realistic practice questions, which gave me a feel for the actual exam format and helped boost my confidence. Highly recommend them for anyone looking for extra practice!
+**Professor Messer’s videos** – These were a game-changer for me. I watched all of his free YouTube videos, took detailed notes, and reviewed them multiple times. His breakdown of the content was spot on.
 
-Practice exams – Along with DumpsSpot, I took other practice exams I found online. The more I practiced, the better I got at time management and understanding how the questions were structured.
+**Practice questions** – These [practice questions](https://bit.ly/3XnMbhy) were a huge help! I used this to work through tons of realistic practice questions, which gave me a feel for the actual exam format and helped boost my confidence. Highly recommend them for anyone looking for extra practice!
+
+**Practice exams** – Along with DumpsSpot, I took other practice exams I found online. The more I practiced, the better I got at time management and understanding how the questions were structured.
 
 Active recall & repetition – Flashcards were my go-to for memorizing important terms and concepts. I made sure to review them constantly and test myself until I had everything down.
 
